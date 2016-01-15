@@ -27,7 +27,7 @@
 
 #include <wx/wx.h>
 #include <GL/gl.h>
-#include <GL/glu.h>
+//#include <GL/glu.h>
 
 #include "TexFont.h"
 
